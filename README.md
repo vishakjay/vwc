@@ -4,9 +4,9 @@
 So this is my version of of the 'wc' command or the word count command.It is completely written in rust.
 
 
-## Deployment
+## Compiling
 
-Clone the repository and once the reopsitory has been cloned.Deploy the project in the following way.Find your way to the cloned repository on your system.
+Clone the repository and once the reopsitory has been cloned.Compile the project in the following way.Find your way to the cloned repository on your system.
 
 ```bash
  cargo build
