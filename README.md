@@ -26,7 +26,7 @@ cargo run -- -c <path/to/the/file> (Prints the number of characters in the file.
 
 cargo run -- -b <path/to/the/file> (Prints the number of bytes in the file.)
 
-cargo run -- -w <path/to/the/file> (Prints the number of words int the file.)
+cargo run -- -w <path/to/the/file> (Prints the number of words in the file.)
 
 
 
